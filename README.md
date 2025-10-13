@@ -1,4 +1,10 @@
-# hub-links
+![GitHub License](https://img.shields.io/github/license/diegoog26/hub-links?style=for-the-badge)
+
+
+# HUB de Links
 Hub de Links estilo Linktree usando HTML5 e CSS3
 
-![GitHub License](https://img.shields.io/github/license/diegoog26/hub-links?style=for-the-badge)
+## Autor
+Diego de Oliveira Galdino
+
+
