@@ -1,0 +1,24 @@
+/*CSS Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Variáveis para cores*/
+
+:root{
+    --Preto: #000;
+    --Branco: #fff;
+}
+
+/* Layout */
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+body {
+     font-family: "Cousine", monospace;
+}
