@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #000;
 }
 
 /*Variáveis para cores*/
@@ -21,4 +22,12 @@
 
 body {
      font-family: "Cousine", monospace;
+}
+
+#Diego{
+    color: #fff;
+}
+
+#biografia{
+    color: #fff;
 }
