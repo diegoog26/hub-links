@@ -3,7 +3,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #000;
 }
 
 /*Variáveis para cores*/
@@ -22,12 +21,53 @@
 
 body {
      font-family: "Cousine", monospace;
+     background-color: var(--Preto);
 }
 
 #Diego{
-    color: #fff;
+    color: var(--Branco);
+    margin: 10px 0px;
+    font-size: 1.25rem;
+    font-weight: 600;
 }
 
 #biografia{
-    color: #fff;
+    color: var(--Branco);
+    margin: 10px 5px;
+    font-size: 1.12rem;
+    font-weight: 200;
+    max-width: 210;
+    margin-bottom: 30px;
+}
+
+header img{
+    width: 100px;
+    height: 100px;
+    margin-top: 30px;
+    border-radius: 50%;
+    border:5px solid var(--Branco)
+}
+
+main{
+    text-align: center;
+}
+
+.container > a{
+    text-decoration: none;
+    background-color: var(--Branco);
+    color: var(--Preto);
+    width: 250px;
+    height: 60px;
+    margin-bottom: 15px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+footer{
+    margin-top: 20px;
+}
+
+footer img{
+    margin: 0px 5px;
 }
